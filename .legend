@@ -1,0 +1,5 @@
+1 = ground
+2 = pike
+F = flag of end, if isn't present you'll loose
+At the end of each lines, a \n must be present
+The map is made on 8 lines

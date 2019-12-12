@@ -1,0 +1,9 @@
+*.o
+my_runner
+*.a
+*~
+\#*\#
+units
+*.gc
+map.txt
+map2.txt
